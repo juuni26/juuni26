@@ -1,7 +1,16 @@
 
 <div align="center">
 
-**`> Junio Akarda // @juuni26`**
+```
+      ██╗██╗   ██╗██╗   ██╗███╗   ██╗██╗
+      ██║██║   ██║██║   ██║████╗  ██║██║
+      ██║██║   ██║██║   ██║██╔██╗ ██║██║
+ ██   ██║██║   ██║██║   ██║██║╚██╗██║██║
+ ╚█████╔╝╚██████╔╝╚██████╔╝██║ ╚████║██║
+  ╚════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝
+```
+
+**`> Junio Akarda // @juuni`**
 
 **`Software Engineer · Cyber Security · Open Source`**
 
@@ -14,7 +23,7 @@
 ---
 
 ```
-junio@dev:~$ cat about.txt
+juuni@dev:~$ cat about.txt
 ```
 
 ```
@@ -36,11 +45,11 @@ junio@dev:~$ cat about.txt
 ---
 
 ```
-junio@dev:~$ neofetch --stack
+juuni@dev:~$ neofetch --stack
 ```
 
 ```
-         ████████████████         junio@dev
+         ████████████████         juuni@dev
        ██░░░░░░░░░░░░░░██       ──────────────────────────
      ██░░████████████░░░░██      OS      : Indonesia // UTC+07
    ██░░██            ██░░░░██    Role    : Fullstack Engineer @ Jitera
@@ -82,12 +91,12 @@ stack = {
 
 ---
 
-### `> cat /var/log/achievements.log`
+### `> cat /var/log/sum-achievements.log`
 
 ```
-[2024] ★ Learning Facilitator — Dicoding × DBS (Intermediate Front End)
-[2021] ★ National App Competition Winner — Dicoding / Indosat / Ministry of Tourism
-[----] ★ Open Source Maintainer — javascript.info Indonesian Translation
+[2024] ★ Learning Facilitator — Dicoding × DBS 
+[2021] ★ App Competition Winner — Dicoding / Indosat / Ministry of Tourism
+[----] ★ Open Source Maintainer — javascript.info Indonesian Reg
 [----] ★ Arctic Code Vault Contributor
 [----] ★ Microsoft Azure Certified (AZ-900)
 ```
